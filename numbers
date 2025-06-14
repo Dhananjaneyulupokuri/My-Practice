@@ -1,0 +1,4 @@
+import math
+a = 57.1
+print(math.ceil(a))
+print(math.floor(a))
